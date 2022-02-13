@@ -27,3 +27,5 @@ YourClass::YourClass(string newString) { // constructor when passed a string as 
 void YourClass::message() { // this class' only method
 	cout << testString << endl; // prints whatever the current value of testString is
 }
+
+
